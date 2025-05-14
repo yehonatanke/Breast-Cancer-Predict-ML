@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python">
   <img src="https://img.shields.io/badge/uses-Machine%20Learning-%232A2F3D.svg">
-  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
 </div>
 
 # <p align="center"> Breast Cancer Classification and Prediction <br> Using Machine Learning </p>
@@ -21,7 +20,6 @@ This program is designed to classify breast cancer using various machine learnin
   - [Logistic Regression](#logistic-regression)
 - [Files](#files)
 - [Example Output](#example-output)
-- [License](#license)
 
 
 ## Features
@@ -222,8 +220,4 @@ After running `main.py`, you will see the following outputs:
 - SHAP summary plots.
 - SHAP dependence plots.
 - Comparison plots of model performance.
-
-## License
-
-This project is licensed under the MIT License.
 
